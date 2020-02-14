@@ -1,0 +1,2 @@
+git remote add origin git@github.com:Kovchin/ajax2.git
+git push -u origin master
